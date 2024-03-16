@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Leo 👋
+CS major at UFCG, with a passion for game design and programming.
+##
+<div>
+  <img height="180em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=leofarias-cpu&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="160em" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leofarias-cpu&theme=monokai&">
+</div>
 
-<!--
-**leofarias-cpu/leofarias-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div> 
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" />
+  <img height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+          
+ </div>
+          
