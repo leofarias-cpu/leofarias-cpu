@@ -1,11 +1,5 @@
 ### Hi there, I'm Leo 👋
 CS major at UFCG, with a passion for game design and programming.
-##
-<div>
-  <img height="180em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=leofarias-cpu&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leofarias-cpu&theme=monokai&">
-</div>
-
 ---
 
 
