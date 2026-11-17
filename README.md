@@ -2,8 +2,8 @@
 CS major at UFCG, with a passion for game design and programming, practicing safe and smart AI usage, so I can boost my learning and productivity without becoming a meat proxy.
 
 ## Some of my projects
-### Incremental game for the unofficial Brain game jam 2026
-
+### [Incremental game for the unofficial Brain game jam 2026
+](https://github.com/leofarias-cpu/brain-game-jam-incremental)
 https://github.com/user-attachments/assets/4d704d45-11a3-4760-b209-9a80a2adc730
 
  Developed with Godot with no AI assistance, a short incremental game about narrowly avoiding balls and enemies to get money and buy more balls and enemies so you can get more money to buy more...
