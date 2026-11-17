@@ -19,6 +19,8 @@ Website made voluntarily with no AI assistance and a lot of haste at the request
 
 https://github.com/user-attachments/assets/c3fd361f-ac49-4e38-be63-0f064e3a5cc1
 
+## Other projects
+I also have a few projects which are not public, mainly developed in VTEXLab, you can read about then on my [linkedin](https://www.linkedin.com/in/leonardo-almeida-a8aa65275/).
 
 
 
