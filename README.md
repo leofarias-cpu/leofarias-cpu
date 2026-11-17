@@ -9,8 +9,8 @@ https://github.com/user-attachments/assets/4d704d45-11a3-4760-b209-9a80a2adc730
 Developed with Godot with no AI assistance, a short incremental game about narrowly avoiding balls and enemies to get money and buy more balls and enemies so you can get more money to buy more... Find it [here!](https://github.com/leofarias-cpu/brain-game-jam-incremental)
  >Also features audio and some nice juice and game feel.
 
-### Riftbound-hexcoach
-Developed mainly using Spec-driven development through Cursor CLI. After an extensive grilling section, one agent built while two another tested and reviewed the code, based on my initial specification.
+### [Riftbound-hexcoach](https://github.com/leofarias-cpu/riftbound-hexcoach)
+Developed mainly using Spec-driven development through Cursor CLI. After an extensive grilling section, one agent built while another two tested and reviewed the code, based on my initial specification.
 
 An in development AI Chatbot to help players understand rulings and card interactions in the TCG Riftbound, currently features only the backend API and CLI.
 
