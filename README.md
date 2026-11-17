@@ -6,7 +6,7 @@ CS major at UFCG, with a passion for game design and programming, practicing saf
 
 https://github.com/user-attachments/assets/4d704d45-11a3-4760-b209-9a80a2adc730
 
-Developed with Godot with no AI assistance, a short incremental game about narrowly avoiding balls and enemies to get money and buy more balls and enemies so you can get more money to buy more...
+Developed in Godot with no AI assistance, a short incremental game about narrowly avoiding balls and enemies to get money and buy more balls and enemies so you can get more money to buy more...
  >Also features audio and some nice juice and game feel.
 
 ### [Riftbound-hexcoach](https://github.com/leofarias-cpu/riftbound-hexcoach)
